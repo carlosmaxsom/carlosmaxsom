@@ -8,7 +8,7 @@
 
 - 💼 Hoje sou Analisa de suporte a sistemas na [Wheaton](https://www.wheaton.com.br)
 
-- 🌱 Atualmente estou aprendendo C#, NodeJS
+- 🌱 Atualmente estou aprendendo JavaScript, NodeJS e React
 
 - 🚀 Atualmente estou procurando oportunidades para começar como desenvolvedor
 
