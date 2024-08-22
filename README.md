@@ -6,9 +6,9 @@
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=carlosmaxsom&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></a>
 </div>
 
-- 💼 Hoje sou Analisa de suporte a sistemas na [Wheaton](https://www.wheaton.com.br)
+- 💼 Hoje sou Desenvolvedor de Software focado no CRM na [MCassab](https://www.mcassab.com.br/)
 
-- 🌱 Atualmente estou aprendendo JavaScript, NodeJS e React
+- 🌱 Atualmente estou utilizo JavaScript, NodeJS e React
 
 - 🚀 Atualmente estou procurando oportunidades para começar como desenvolvedor
 
